@@ -1,11 +1,11 @@
 # 🩺 Projet de Prédiction du Diabète
 
 <div align="center">
-  <a href="![machine-learning-in-healthcare-1-768x402-1](https://github.com/user-attachments/assets/aa5e1306-d27f-4c99-bf52-5a496fbd4e06)
-">
-    <img src="![machine-learning-in-healthcare-1-768x402-1](https://github.com/user-attachments/assets/02c4392a-0882-4fc3-a593-738068f451e7)
-" alt="Banner du Projet" width="720">
+  <a href="https://github.com/user-attachments/assets/aa5e1306-d27f-4c99-bf52-5a496fbd4e06">
+    <img src="https://github.com/user-attachments/assets/02c4392a-0882-4fc3-a593-738068f451e7" alt="Banner du Projet" width="720">
   </a>
+</div>
+
   
   <div id="user-content-toc">
     <ul>
@@ -68,4 +68,4 @@ Dans l'ensemble, cette méthode représente un progrès majeur dans la prédicti
 <a name="contact"></a>
 ## 📞 Contact
 
-Pour plus d'informations, vous pouvez contacter [votre-nom-ici](mailto:votre-email@exemple.com).
+Pour plus d'informations, vous pouvez contacter  zakariae yahya : zakariae.yh@gmail.com.
