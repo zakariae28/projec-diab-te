@@ -2,7 +2,8 @@
 
 <div align="center">
   <a href="https://votre-lien-ici">
-    <img src="votre-image-lien-ici" alt="Banner du Projet" width="720">
+    <img src="![machine-learning-in-healthcare-1-768x402-1](https://github.com/user-attachments/assets/02c4392a-0882-4fc3-a593-738068f451e7)
+" alt="Banner du Projet" width="720">
   </a>
   
   <div id="user-content-toc">
@@ -12,12 +13,8 @@
   </div>
 
   <p>Développement d'un modèle prédictif pour identifier le diabète chez les patients en utilisant des données médicales.</p>
-  <a href="https://votre-lien-de-preview-ici" target="_blank">Aperçu en Direct</a>
-  🩺
-  <a href="https://votre-lien-de-données-ici" target="_blank">Données du Projet</a>
-  🚑
-  <a href="https://github.com/votre-lien-de-requête" target="_blank">Demander une Fonctionnalité</a>
-</div>
+  <a href="https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset" target="_blank">Données du Projet</a>
+  </div>
 <br>
 <div align="center">
   <a href="https://votre-lien-de-preview-ici"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/></a>
