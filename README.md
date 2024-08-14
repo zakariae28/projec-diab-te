@@ -1,7 +1,8 @@
 # 🩺 Projet de Prédiction du Diabète
 
 <div align="center">
-  <a href="https://votre-lien-ici">
+  <a href="![machine-learning-in-healthcare-1-768x402-1](https://github.com/user-attachments/assets/aa5e1306-d27f-4c99-bf52-5a496fbd4e06)
+">
     <img src="![machine-learning-in-healthcare-1-768x402-1](https://github.com/user-attachments/assets/02c4392a-0882-4fc3-a593-738068f451e7)
 " alt="Banner du Projet" width="720">
   </a>
@@ -45,7 +46,7 @@ Ce projet a abouti à la création d'un modèle de prédiction du diabète, expl
 - **Scores F1** : Excellente adéquation entre la précision et le rappel.
 - **Matrice de Confusion** : Fiabilité confirmée avec une minimisation des erreurs de classification.
 
-![Matrice de Corrélation](votre-lien-matrice-corrélation.jpg)
+![WhatsApp Image 2023-12-30 à 15 58 11_1396e5f2](https://github.com/user-attachments/assets/bcb8de10-eeb6-4678-9c21-f9c2e1127b3e)
 
 **Tester un Échantillon** : Nous avons pris un échantillon de 20 personnes aléatoirement dans les données et les avons testées.
 
