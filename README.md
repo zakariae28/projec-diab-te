@@ -16,10 +16,6 @@
   <p>Développement d'un modèle prédictif pour identifier le diabète chez les patients en utilisant des données médicales.</p>
   <a href="https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset" target="_blank">Données du Projet</a>
   </div>
-<br>
-<div align="center">
-  <a href="https://votre-lien-de-preview-ici"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/></a>
-  <img src="https://img.shields.io/github/stars/votre-repo?color=blue&style=social"/>
 </div>
 
 ## 📝 Table des Matières
